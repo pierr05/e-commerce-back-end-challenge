@@ -257,4 +257,7 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
 ---
+
+A link to the video that shows how this app works.(https://drive.google.com/file/d/1tpR1xRcMaFGcgdIAUVW8UNNKmFvBQpwy/view)
+
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
