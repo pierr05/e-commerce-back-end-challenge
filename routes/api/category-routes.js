@@ -42,7 +42,7 @@ router.post('/', async (req, res) => {
   try {
   const categoryData = await Category.create({
     id: req.body.id,
-    category_name: "Sneakers"
+    category_name: req.body.category_name
   });
     res.status(200).json(categoryData);
 
